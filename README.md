@@ -35,9 +35,9 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 ### 🎥 Ghé thăm kênh TikTok của chúng mình:
 *👉 Nhấn vào hình ảnh để xem chi tiết:*
 
-| Hoàng Mẫn | Mr.khang102 |
+| Hoàng Mẫn | 𝐁𝐥𝐮𝐞𝐫❤️ |
 | :---: | :---: |
-| [<img src="./Media/nonghoangman.png" width="450">](https://www.tiktok.com/@nonghoangman) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
+| ![image alt](https://github.com/nong-hoang-man/DEAUTHER-5GHZ/blob/74a6713f99db7e86639ccc28473569c2161f330c/30890867922e93fbc4f8d4e1465cbcc3.webp)(https://www.tiktok.com/@nonghoangman) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
 
 ---
 
