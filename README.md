@@ -37,7 +37,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 | Hoàng Mẫn| 𝐁𝐥𝐮𝐞𝐫❤️ |
 | :---: | :---: |
-| [<img src="./Media/UchihaMadara.png" width="450">](https://www.tiktok.com/@devilmask_oni) | [<img src="https://github.com/tx9152264-art/-u/blob/5442640deb099155c72a47abfde6f126ec66486e/IMG_0884.jpeg" width="100">](https://www.tiktok.com/@truong.xuan807) |
+| [<img src="https://github.com/tx9152264-art/-u/blob/4e92ff13a12d8c6fe06572668dba07c2e06024b7/IMG_0888.png" width="450">](https://www.tiktok.com/@nonghoangman) | [<img src="https://github.com/tx9152264-art/-u/blob/5442640deb099155c72a47abfde6f126ec66486e/IMG_0884.jpeg" width="100">](https://www.tiktok.com/@truong.xuan807) |
 
 ---
 
