@@ -35,12 +35,23 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 ### 🎥 Ghé thăm kênh TikTok của chúng mình:
 *👉 Nhấn vào hình ảnh để xem chi tiết:*
 
-| Hoàng Mẫn | 𝐁𝐥𝐮𝐞𝐫❤️ |
- <table>
+<table align="center">
+  <!-- HÀNG 1: Chứa tên của 2 nick TikTok -->
   <tr>
-    <td>
-      <a href="https://www.tiktok.com/@nonghoangman?" target="_blank">
-        <img src="https://github.com/nong-hoang-man/DEAUTHER-5GHZ/blob/74a6713f99db7e86639ccc28473569c2161f330c/30890867922e93fbc4f8d4e1465cbcc3.webp" width="50" alt="TikTok" style="display:block;">
+    <td align="center"><h2>Hoàng Mẫn</h2></td>
+    <td align="center"><h2>𝐁𝐥𝐮𝐞𝐫❤️</h2></td>
+  </tr>
+  
+  <!-- HÀNG 2: Chứa hình ảnh chụp màn hình tương ứng, khi nhấn vào sẽ mở TikTok -->
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.tiktok.com/@nonghoangman?="_blank">
+        <img src="URL_ẢNH_CHỤP_MÀN_HÌNH_MADARA" width="400" alt="TikTok Uchiha Madara">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tiktok.com" target="_blank">
+        <img src="URL_ẢNH_CHỤP_MÀN_HÌNH_MRKHANG" width="400" alt="TikTok Mr.khang102">
       </a>
     </td>
   </tr>
