@@ -14,7 +14,7 @@ Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoạ
 
 | v2 | v3.6 trở đi | v4.3 trở đi |
 | :---: | :---: | :---: |
-| ![image alt](https://github.com/nong-hoang-man/DEAUTHER-5GHZ/blob/298fd5136def1f42836a715f3154e725fed8f8dc/SO_DO_1.png)| <img src="./Sơ đồ/SO_DO_2.png" width="450"> | <img src="./Sơ đồ/SO_DO_3.png" width="450"> |
+| ![image alt](https://github.com/nong-hoang-man/DEAUTHER-5GHZ/blob/298fd5136def1f42836a715f3154e725fed8f8dc/SO_DO_1.png)| ![image alt](https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/S%C6%A1%20%C4%91%E1%BB%93/SO_DO_2.png)| <img src="./Sơ đồ/SO_DO_3.png" width="450"> |
 
 ### 🎞 Video Review PCB
 
