@@ -37,7 +37,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 | Hoàng Mẫn | Mr.khang102 |
 | :---: | :---: |
-| [<img src="./Media/UchihaMadara.png" width="450">](https://www.tiktok.com/@nonghoangman) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
+| [<img src="./Media/nonghoangman.png" width="450">](https://www.tiktok.com/@nonghoangman) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
 
 ---
 
